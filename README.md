@@ -36,3 +36,4 @@ Simple CRUD with Asp .Net core 3.1 Web App:<br />
     3)Setup Users Controller<br />
     4)Setup JSON Web Tokens (JWT) Authentication<br />
     5)Setup Controller and Action Authorizations<br />
+![image](https://user-images.githubusercontent.com/101410890/157906274-b8cbca95-9bd4-4749-ad6c-77c88d7d3eb8.png)
